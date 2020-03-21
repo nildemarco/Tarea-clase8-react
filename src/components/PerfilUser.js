@@ -17,6 +17,7 @@ img {
     width: 100%;
     height: 185px;
     border-radius: 50%;
+    object-fit: cover;
 }
 .perfil-details {
     width: 50%;

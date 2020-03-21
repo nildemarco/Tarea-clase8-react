@@ -2,11 +2,11 @@ import React from 'react';
 import styled from 'styled-components';
 
 const StylePhoto = styled.div`
-width: 300px;
+width: 295px;
 margin: 5px;
 img {
-    width: 100%;
-    height: auto;
+    width: 295px;
+    height: 295px;
     object-fit: cover;
 }
 `

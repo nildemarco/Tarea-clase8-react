@@ -6,7 +6,8 @@ const ContainerMain = styled.div`
 display: flex;
 flex-wrap: wrap;
 justify-content: center;
-text-align: justify;`
+
+`
 const ContainerPhotos = ({ feedsource }) => {
 
     return (
